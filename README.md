@@ -1,2 +1,2 @@
 # nlp-tutoring-system
-A tutoring system built with NLP
+An application built with NLP
